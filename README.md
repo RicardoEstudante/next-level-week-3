@@ -44,12 +44,13 @@ An online and completely free event that will help you take the next step in you
 
 ## 💻 Project
 
-Happy is..
+LmORARfEVT1iyjwNenfjnfjfnsjkfnskjnfkdnfdsnfdksjfnsdkjnfdsnfjsd7
+afsfhsdhfsdhfsuidhfsdiuhfdshfusdihfiusdhfiudh
 
 ## 🔖 Layout
 
 <p align="center">
-    <img src="./img/design.png">
+    <img src="./web/src/images/mapa.png">
  </p>
 
 To access the layout use [Figma](https://www.figma.com/file/wMYaVlO3gQcykUlfqTXUNc/Happy-Web?node-id=0%3A1).
