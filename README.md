@@ -44,8 +44,8 @@ An online and completely free event that will help you take the next step in you
 
 ## 💻 Project
 
-LmORARfEVT1iyjwNenfjnfjfnsjkfnskjnfkdnfdsnfdksjfnsdkjnfdsnfjsd7
-afsfhsdhfsdhfsuidhfsdiuhfdshfusdihfiusdhfiudh
+
+Happy is a project to connect people and orphanages, aiming to provide greater interactivity of these institutions with people interested in helping children and making their days happier!
 
 ## 🔖 Layout
 
