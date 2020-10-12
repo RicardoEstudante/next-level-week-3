@@ -52,7 +52,7 @@ Happy is..
     <img src="./img/design.png">
  </p>
 
-To access the layout use [Figma](https://www.figma.com/file/a9hAM4EE8lF9iIZUckXUxL/Proffy-Web-(Copy)?node-id=0%3A1).
+To access the layout use [Figma](https://www.figma.com/file/wMYaVlO3gQcykUlfqTXUNc/Happy-Web?node-id=0%3A1).
 
 ## :rocket: Technologies
 
