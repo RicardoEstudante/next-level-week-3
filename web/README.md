@@ -1,44 +1,150 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+    <img src="./img/logo.png">
+  </p>
 
-## Available Scripts
+  <h2 align="center"> 
+    NextLevelWeek 3.0 🚀 Done!
+  </h2>
 
-In the project directory, you can run:
+---
 
-### `yarn start`
+<p align="center">	
+  <a href="https://www.linkedin.com/in/ricardo-carvalho-ba865a123/">
+    <img alt="Made by Ricardo" src="https://img.shields.io/badge/made%20by-Ricardo-%2304D361">
+    
+  </a>
+  <img alt="GitHub top language" src="https://img.shields.io/github/followers/RicardoEstudante?label=Follow&style=social">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/HigorSnt/proffy?style=flat-square">
+</p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="center">
+  <a href="https://insomnia.rest/run/?label=NLW%201.0%20-%20Ecoleta&uri=https%3A%2F%2Fraw.githubusercontent.com%2FDanielObara%2FNLW-1.0%2Fmaster%2Fbackend%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia">
+  </a>
+</p>
+<p align="center">
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## :information_source: What's Next Level Week?
 
-### `yarn test`
+NLW is a practical week with lots of code, challenges, networking and a single objective: to take you to the next level.
+Through our method you will learn new tools, learn about new technologies and discover hacks that will boost your career.
+An online and completely free event that will help you take the next step in your evolution as a dev.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Days
+- Dia 1: Acelerando sua evolução - :heavy_check_mark:
+- Dia 2: Olhando para as oportunidades - :heavy_check_mark:
+- Dia 3: A escolha da Stack - :heavy_check_mark:
+- Dia 4: Até 2 anos em 2 meses - :heavy_check_mark:
+- Dia 5: Milha extra - :heavy_check_mark:
 
-### `yarn build`
+## 💻 Project
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Happy is..
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## 🔖 Layout
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p align="center">
+    <img src="./img/design.png">
+ </p>
 
-### `yarn eject`
+To access the layout use [Figma](https://www.figma.com/file/a9hAM4EE8lF9iIZUckXUxL/Proffy-Web-(Copy)?node-id=0%3A1).
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## :rocket: Technologies
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This project was developed with the following 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="nodejs" width="15" height="15"/> [Node.js][nodejs]
+-  <img src="https://image.flaticon.com/icons/png/512/919/919832.png" alt="typescript" width="15" height="15"/> [TypeScript][typescript]
+- <img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/20167174151551942641-512.png" alt="react" width="15" height="15"/> [React][reactjs]  
+- <img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/19108918321553750384-512.png" alt="react-native" width="20" height="20"/> [React Native][rn]
+-  <img src="https://image.flaticon.com/icons/svg/2772/2772128.svg" alt="sql" width="15" height="15"/> [Sql][sql]
+- <img src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" alt="sql" width="15" height="15" /> [Expo][expo]
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+   
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## :information_source: How To Use
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] installed on your computer.
+
+From your command line:
+
+### Install API 
+
+```bash
+# Clone this repository
+$ git clone https://github.com/RicardoEstudante/next-level-week-3.git
+
+# Go into the repository
+$ cd next-level-week/server
+
+# Install dependencies
+$ yarn install
+
+# Start server
+$ yarn dev
+
+# running on port 3333
+```
+
+### Install Front-end
+
+```bash
+# Clone this repository
+$ git clone https://github.com/RicardoEstudante/next-level-week-3.git
+
+# Go into the repository
+$ cd next-level-week/web
+
+# Install dependencies
+$ yarn install
+
+# Run
+$ yarn start
+
+# running on port 3000
+```
+
+### Install Mobile
+
+```bash
+# Clone this repository
+$ git clone https://github.com/RicardoEstudante/next-level-week-3.git
+
+# Go into the repository
+$ cd next-level-week/mobile
+
+# Install dependencies
+$ yarn install
+
+# Run
+$ yarn start
+
+# Expo will open, just scan the qrcode on terminal or expo page
+
+# If some problem with fonts, execute:
+$ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
+
+```
+
+## 🤔 How to contribute
+
+-  Make a fork;
+-  Create a branck with your feature: `git checkout -b my-feature`;
+-  Commit changes: `git commit -m 'feat: My new feature'`;
+-  Make a push to your branch: `git push origin my-feature`.
+
+After merging your receipt request to done, you can delete a branch from yours.
+
+[nodejs]: https://nodejs.org/
+[typescript]: https://www.typescriptlang.org/
+[expo]: https://expo.io/
+[sql]: https://www.sqlite.org/lang.html
+[reactjs]: https://reactjs.org
+[rn]: https://facebook.github.io/react-native/
+[yarn]: https://yarnpkg.com/
