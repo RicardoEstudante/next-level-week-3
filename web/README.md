@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./img/logo.png">
+    <img src="./src/images/nlw.jpg" width="70%" height="70%">
   </p>
 
   <h2 align="center"> 
