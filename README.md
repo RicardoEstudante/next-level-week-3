@@ -82,10 +82,13 @@ From your command line:
 $ git clone https://github.com/RicardoEstudante/next-level-week-3.git
 
 # Go into the repository
-$ cd next-level-week/server
+$ cd next-level-week/backend
 
 # Install dependencies
 $ yarn install
+
+# run migrations
+$ yarn typeorm migration:run
 
 # Start server
 $ yarn dev
