@@ -8,14 +8,14 @@ import { RectButton } from 'react-native-gesture-handler'
 import mapMarker from '../images/map-marker.png';
 
 export default function OrphanagesMap() {
-  const navigation = useNavigation()
+  const navigation = useNavigation();
 
   function handleNavigationToOrphanageDetail() {
-    navigation.navigate('OrphanagesDetail')
+    navigation.navigate('OrphanagesDetail');
   }
 
   function handleNavigationToCreateOrphanage() {
-    navigation.navigate('SelectMapPosition')
+    navigation.navigate('SelectMapPosition');
   }
   return (
       <View style={styles.container}>
