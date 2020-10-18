@@ -29,6 +29,8 @@
     "prettier"
   ],
   "rules": {
+    "no-use-before-define": "off",
+    "camelcase": "off",
     "prettier/prettier": "error",
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
@@ -41,6 +43,14 @@
       }
     ],
     "import/prefer-default-export": "off",
+    "import/extensions": [
+      "error",
+      "ignorePackages",
+      {
+        "ts": "never",
+        "tsx": "never"
+      }
+    ]
   },
   "settings": {
     "import/resolver": {
