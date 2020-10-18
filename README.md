@@ -50,7 +50,7 @@ Happy is a project to connect people and orphanages, aiming to provide greater i
 ## 🔖 Layout
 
 <p align="center">
-    <img src="./web/src/images/mapa.png">
+    <img src="./web/src/images/app.jpeg">
  </p>
 
 To access the layout use [Figma](https://www.figma.com/file/wMYaVlO3gQcykUlfqTXUNc/Happy-Web?node-id=0%3A1).
