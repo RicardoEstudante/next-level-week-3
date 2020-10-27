@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./web/src/images/nlw.jpg" width="70%" height="70%">
+    <img src="./web/src/images/logoReadme.svg" width="70%" height="70%">
   </p>
 
   <h2 align="center"> 
@@ -50,7 +50,7 @@ Happy is a project to connect people and orphanages, aiming to provide greater i
 ## 🔖 Layout
 
 <p align="center">
-    <img src="./web/src/images/app.jpeg">
+    <img src="./web/src/images/happy.png">
  </p>
 
 To access the layout use [Figma](https://www.figma.com/file/wMYaVlO3gQcykUlfqTXUNc/Happy-Web?node-id=0%3A1).
